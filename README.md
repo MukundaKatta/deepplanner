@@ -15,4 +15,4 @@ pip install -e .
 - **Llm** — llm module
 
 ## License
-MIT
+© 2026 Officethree Technologies. All Rights Reserved.
